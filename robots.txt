@@ -47,4 +47,4 @@ Allow: /
 User-agent: Manus
 Allow: /
 
-Sitemap: https://www.belizeseoagency.com/sitemap.xml
+Sitemap: https://belizeseoagency.com/sitemap.xml
