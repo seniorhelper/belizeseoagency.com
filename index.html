@@ -428,7 +428,11 @@ footer{background:var(--abyss);color:rgba(255,255,255,.66);padding:56px 22px 26p
   body{padding-bottom:52px}
 }
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
-</style>
+
+    /* 390px fit */
+    html, body { overflow-x: clip; }
+    @media (max-width: 560px) { .nav-cta .btn-coral { display: none; } }
+  </style>
 </head>
 <body>
 
